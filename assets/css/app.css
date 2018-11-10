@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/icons.woff2) format('woff2');
+}
+
+.Menu-Item{
+	font-size: 18px;
+}
+
+.Image-Empresa{
+	width: 125px;
+	width: 125px;
+}
+.Panel-Derecho{
+	border-left: 1px solid #333;
+}
+.Boton-Guardar{
+	background-color: #1B6EB1; 
+	border: solid #1B6EB1; 
+	color: white;
+}
+.Boton-Guardar:hover{
+	background-color: #1B6EB1; 
+	border: solid #1B6EB1; 
+	color: white;
+}
